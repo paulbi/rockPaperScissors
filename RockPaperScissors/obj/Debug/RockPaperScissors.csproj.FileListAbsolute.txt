@@ -1,0 +1,10 @@
+C:\TEST FOLDER\RockPaperScissors\bin\RockPaperScissors.dll
+C:\TEST FOLDER\RockPaperScissors\bin\RockPaperScissors.pdb
+C:\TEST FOLDER\RockPaperScissors\obj\Debug\ResolveAssemblyReference.cache
+C:\TEST FOLDER\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+C:\TEST FOLDER\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\RockPaperScissors\bin\RockPaperScissors.dll
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\RockPaperScissors\bin\RockPaperScissors.pdb
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\RockPaperScissors\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.dll
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

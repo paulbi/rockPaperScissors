@@ -1,0 +1,137 @@
+﻿body 
+{
+	font-family: tahoma, arial;
+	background-color: #e0e0e0;
+}
+h3, h4 {
+	padding: 0;
+	margin: 0;
+	font-weight: bold;
+}
+#page {
+	width: 700px;
+	min-height: 300px;
+	position: relative;
+	left: 50%;
+	margin-top: 20px;
+	margin-left: -350px;
+	border: solid 6px #ff9f40;
+	background-color: #ffffff;
+	padding-bottom: 20px;
+}
+
+#hud {
+	height: 30px;
+	background-color: #ff9f40;
+	font-size: 20px;
+	color: #774a1e;
+}
+#hud div {
+	width: 33%;
+	float: left;
+	text-align: center;
+}
+.hudSelect {
+	background-color: #ff9f40;
+	border-width: 0;
+	color: #774a1e;
+	font-size: 20px;
+}
+#vsImg { position: relative; top: -24px; z-index: 1000 }
+#loader 
+{
+    position: absolute;
+    width: 100%;
+	background-color: #d8ebef;
+	height: 24px;
+	background-image: url(../images/ajaxLoader.gif);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+#loader img { left: 50%; margin: 0 auto 0 -110px; position: absolute;}
+#player1, #gameSummary, #computer { width: 33%;float: left;text-align: center;min-height: 200px;}
+
+#player1 div {
+	width: 123px;
+	height: 112px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	cursor: pointer;
+	border: solid 4px #ffffff;
+}
+/* Add more player option image css classes here */ 
+#player1 div.selected { border: solid 4px #04819e; }
+
+#player1 div.rock, #computer div.rock { background-image: url(../images/rock_plain.png); }
+#player1 div.paper, #computer div.paper { background-image: url(../images/paper_plain.png); }
+#player1 div.scissors, #computer div.scissors { background-image: url(../images/scissors_plain.png); }
+
+#computer div {
+	width: 123px;
+	height: 112px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+}
+
+/********************************************/
+
+#gameSummary div.totals { width: 31%;float: left;margin: 0 1px;border: solid 1px #04819E;vertical-align: top; }
+#gameSummary div.totals h4 { font-size: 8pt;color: #ffffff;background-color: #04819E;padding: 3px 0;}
+#gameSummary div.totals p { color: #04819e;font-weight: bold;}
+
+#turnResult { margin-top: 20px;text-align: center;color: #ff7f00;font-size: 20pt;font-weight: bold;}
+/********************************************/
+#btnStartGame, #btnStopGame {
+	border: solid 1px #04819E;
+	background-color: #68bacd;
+	color: #ffffff;
+	font-size: 8pt;
+	display: none;
+	position: absolute;
+	margin-left: 10px;
+}
+
+.clear { clear: both;line-height: 0; height: 0; }
+.opacity40 
+{
+  cursor:wait !important;
+  /* IE 8 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+  /* IE 5-7 */
+  filter: alpha(opacity=40);
+  /* Netscape */
+  -moz-opacity: 0.4;
+  /* Safari 1.x */
+  -khtml-opacity: 0.4;
+  /* Good browsers */
+  opacity: 0.4;
+}
+
+.disabled { cursor:not-allowed !important; }
+
+#startupInfo {
+display:none;
+width:400px;
+border:10px solid #ff9f40;
+ 
+border:10px solid rgba(255, 159, 64, 0.698);
+ 
+-moz-border-radius:8px;
+-webkit-border-radius:8px;
+}
+#startupInfo div {
+padding:10px;
+border:1px solid #ff9f40;
+background-color:#fff;
+font-size: 8pt;
+}
+ 
+#startupInfo h2 {
+margin:-11px;
+margin-bottom:0;
+color:#fff;
+background-color:#a65200;
+padding:5px 10px;
+border:1px solid #ff9f40;
+font-size:20px;
+}

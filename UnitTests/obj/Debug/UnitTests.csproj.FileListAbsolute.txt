@@ -1,0 +1,10 @@
+C:\TEST FOLDER\UnitTests\bin\Debug\UnitTests.dll
+C:\TEST FOLDER\UnitTests\bin\Debug\UnitTests.pdb
+C:\TEST FOLDER\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\TEST FOLDER\UnitTests\obj\Debug\UnitTests.dll
+C:\TEST FOLDER\UnitTests\obj\Debug\UnitTests.pdb
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\UnitTests\bin\Debug\UnitTests.dll
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\UnitTests\bin\Debug\UnitTests.pdb
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\UnitTests\obj\Debug\UnitTests.dll
+C:\Documents and Settings\Paul\My Documents\GitHub\rockPaperScissors\UnitTests\obj\Debug\UnitTests.pdb
